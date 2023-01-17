@@ -1,4 +1,6 @@
 ---
-layout: redirect
-tourl: https://ko-fi.com/
+layout: page
+navname: Donate
+---
+# Donations Coming Soon
 ---

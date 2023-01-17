@@ -5,19 +5,19 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+Miiysttc SMP is a nations based Minecraft SMP with a small community that has been active since January 2022.
 
 
-# Terms of Use
+# Links
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
-
+[GitHub](https://github.com/MiiysttcMC)
+[Discord](https://discord.gg/U2m3F2BYsV)
 
 # Privacy Policy
 
 This website does not collect any data, but third party integrations may collect data to provide a service.
+
+We promise not to disclose any of your information to any third-party groups or use it with malicious intent.
 
 - Mcsrvstat.us: Displays Minecraft server status
 - Widgetbot: Displays Discord server preview
